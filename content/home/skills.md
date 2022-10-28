@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: fa-code
-    icon_pack: fab
-    name: C++
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    - name: C++ (main)
+    - name : C#
+    - name: Java
+    - name: Python
+  # - description: 90%
+  #   #icon: fa-code
+  #   #icon_pack: fab
+  #   name: C++
+  # - description: 100%
+  #   #icon: chart-line
+  #   #icon_pack: fas
+  #   name: C#
+  # - description: 10%
+  #   #icon: camera-retro
+  #   icon_pack: fas
+  #   name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
